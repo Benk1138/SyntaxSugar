@@ -1,0 +1,15 @@
+/Users/benkunkel/Projects/SyntaxSugar/SyntaxSugar/obj/Debug/net6.0/SyntaxSugar.csproj.AssemblyReference.cache
+/Users/benkunkel/Projects/SyntaxSugar/SyntaxSugar/obj/Debug/net6.0/SyntaxSugar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benkunkel/Projects/SyntaxSugar/SyntaxSugar/obj/Debug/net6.0/SyntaxSugar.AssemblyInfoInputs.cache
+/Users/benkunkel/Projects/SyntaxSugar/SyntaxSugar/obj/Debug/net6.0/SyntaxSugar.AssemblyInfo.cs
+/Users/benkunkel/Projects/SyntaxSugar/SyntaxSugar/obj/Debug/net6.0/SyntaxSugar.csproj.CoreCompileInputs.cache
+/Users/benkunkel/Projects/SyntaxSugar/SyntaxSugar/bin/Debug/net6.0/SyntaxSugar
+/Users/benkunkel/Projects/SyntaxSugar/SyntaxSugar/bin/Debug/net6.0/SyntaxSugar.deps.json
+/Users/benkunkel/Projects/SyntaxSugar/SyntaxSugar/bin/Debug/net6.0/SyntaxSugar.runtimeconfig.json
+/Users/benkunkel/Projects/SyntaxSugar/SyntaxSugar/bin/Debug/net6.0/SyntaxSugar.dll
+/Users/benkunkel/Projects/SyntaxSugar/SyntaxSugar/bin/Debug/net6.0/SyntaxSugar.pdb
+/Users/benkunkel/Projects/SyntaxSugar/SyntaxSugar/obj/Debug/net6.0/SyntaxSugar.dll
+/Users/benkunkel/Projects/SyntaxSugar/SyntaxSugar/obj/Debug/net6.0/refint/SyntaxSugar.dll
+/Users/benkunkel/Projects/SyntaxSugar/SyntaxSugar/obj/Debug/net6.0/SyntaxSugar.pdb
+/Users/benkunkel/Projects/SyntaxSugar/SyntaxSugar/obj/Debug/net6.0/SyntaxSugar.genruntimeconfig.cache
+/Users/benkunkel/Projects/SyntaxSugar/SyntaxSugar/obj/Debug/net6.0/ref/SyntaxSugar.dll
